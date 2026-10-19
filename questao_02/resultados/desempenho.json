@@ -1,22 +1,22 @@
 {
   "construir_plano_total": {
-    "tempo_s": 0.6199550909999516,
+    "tempo_s": 0.4492326529999673,
     "mem_mib": 31.11493968963623
   },
   "monte_carlo_estatisticas": {
-    "tempo_s": 0.24657262799996715,
+    "tempo_s": 0.24597960500000227,
     "mem_mib": 31.114802360534668
   },
   "dynamic_programming": {
-    "tempo_s": 0.08642583300002116,
+    "tempo_s": 0.09493458099996133,
     "mem_mib": 0.7797012329101562
   },
   "greedy": {
-    "tempo_s": 0.014450021000016022,
+    "tempo_s": 0.013793213999974796,
     "mem_mib": 0.0862417221069336
   },
   "validacao_monte_carlo": {
-    "tempo_s": 0.43617523299997174,
+    "tempo_s": 0.436069783999983,
     "mem_mib": 76.90656566619873,
     "n_cenarios": 5000
   }

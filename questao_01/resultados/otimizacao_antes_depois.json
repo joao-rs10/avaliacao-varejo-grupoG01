@@ -2,17 +2,17 @@
   "brute_force_n6": {
     "combinacoes": 20580,
     "fitness_otimo": 124232.56227711115,
-    "antes_tempo_s": 15.415089257999966,
+    "antes_tempo_s": 15.08862006000004,
     "antes_mem_mib": 0.12769317626953125,
-    "depois_tempo_s": 0.0007352810000043064,
+    "depois_tempo_s": 0.0006361479998986397,
     "depois_mem_mib": 0.7861175537109375,
-    "speedup": 20964.895404491184
+    "speedup": 23718.725929192857
   },
   "fitness_ga_populacao": {
-    "antes_tempo_s": 4.860580876000029,
-    "antes_mem_mib": 0.12955474853515625,
-    "depois_tempo_s": 0.000695543999995607,
+    "antes_tempo_s": 4.336853328000075,
+    "antes_mem_mib": 0.12964248657226562,
+    "depois_tempo_s": 0.0006290740000167716,
     "depois_mem_mib": 0.0315704345703125,
-    "speedup": 6988.171669988854
+    "speedup": 6894.027297081823
   }
 }

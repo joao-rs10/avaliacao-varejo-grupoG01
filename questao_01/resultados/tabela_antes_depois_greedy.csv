@@ -1,6 +1,6 @@
 sku,categoria,nivel_preco,preco_final,retirado_do_canal,unidades_antes,caixa_antes,investimento_greedy,unidades_extra,ganho_bruto_greedy,caixa_depois_liquido
 Q1-001,Beleza,1.1,239.69,False,259.0,23504.73,3000.0,63.56,5768.32,26273.05
-Q1-002,Moda,0.8,227.12,False,211.0,17431.4,0.0,0.0,0.0,17431.4
+Q1-002,Moda,0.85,241.31,False,182.0,17348.87,1100.0,29.72,2832.6,19081.47
 Q1-003,Moda,1.1,517.99,False,440.0,112560.25,0.0,0.0,0.0,112560.25
 Q1-004,Eletronicos,1.1,2417.69,False,54.0,19719.84,1200.0,3.92,1429.82,19949.67
 Q1-005,Informatica,1.1,3049.09,False,13.0,8911.49,1100.0,2.27,1558.2,9369.69

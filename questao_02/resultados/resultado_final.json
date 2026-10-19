@@ -1,0 +1,88 @@
+{
+  "grupo": "G01",
+  "seed_usada": 1021,
+  "n_skus": 24,
+  "cenario": {
+    "preco_concorrente_mult": 1.0,
+    "custo_logistico_mult": 1.0,
+    "orcamento_mult": 1.0,
+    "divida_mult": 1.0,
+    "remover_sku": []
+  },
+  "cenarios_construcao": 2000,
+  "cenarios_validacao": 5000,
+  "dividas": {
+    "semana_4": 79264.53,
+    "semana_8": 102383.35,
+    "semana_12": 148620.99
+  },
+  "caixa_inicial": 38171.26,
+  "validacao": {
+    "n_cenarios": 5000,
+    "prob_pagamento_por_vencimento": {
+      "semana_4": 1.0,
+      "semana_8": 1.0,
+      "semana_12": 1.0
+    },
+    "prob_pagar_todos_no_prazo": 1.0,
+    "cenarios_de_falha": 0,
+    "taxa_de_falha": 0.0,
+    "caixa_final_esperado": 360905.1998503265,
+    "caixa_final_desvio": 17369.476067150274,
+    "caixa_final_p5": 331611.75021309085,
+    "caixa_final_p50": 361009.3851826916,
+    "caixa_final_p95": 389026.74716195185,
+    "caixa_operacional_esperado": 653002.8098503265,
+    "receita_esperada": 2426476.7306435336,
+    "margem_esperada": 0.2691156282702705,
+    "estoque_final_medio_un": 542.6116019929271,
+    "estoque_final_pct_do_inicial": 13.938135165500313,
+    "atende_limite_de_risco": true
+  },
+  "percentil_de_risco_escolhido": 5.0,
+  "calibracao_pesos_urgencia": [
+    {
+      "iteracao": 0,
+      "nu": {
+        "4": 0.0,
+        "8": 0.0,
+        "12": 0.0
+      },
+      "prob_pagar_todos": 1.0,
+      "P_semana_4": 1.0,
+      "P_semana_8": 1.0,
+      "P_semana_12": 1.0,
+      "caixa_final_esperado": 361390.53227780294,
+      "gasto_promocional": 25800.0
+    }
+  ],
+  "pesos_finais": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "dp": {
+    "subproblemas_memoizados": 47004,
+    "consultas_a_V": 5640480,
+    "reuso_medio_por_subproblema": 120.0
+  },
+  "promocao": {
+    "gasto_total": 25800.0,
+    "orcamento_total": 56900.399999999994,
+    "uso_pct": 45.342387751228465
+  },
+  "skus_representativos": [
+    "Q2-009",
+    "Q2-013",
+    "Q2-021"
+  ]
+}

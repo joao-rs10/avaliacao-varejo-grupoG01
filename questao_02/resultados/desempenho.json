@@ -1,0 +1,23 @@
+{
+  "construir_plano_total": {
+    "tempo_s": 0.6199550909999516,
+    "mem_mib": 31.11493968963623
+  },
+  "monte_carlo_estatisticas": {
+    "tempo_s": 0.24657262799996715,
+    "mem_mib": 31.114802360534668
+  },
+  "dynamic_programming": {
+    "tempo_s": 0.08642583300002116,
+    "mem_mib": 0.7797012329101562
+  },
+  "greedy": {
+    "tempo_s": 0.014450021000016022,
+    "mem_mib": 0.0862417221069336
+  },
+  "validacao_monte_carlo": {
+    "tempo_s": 0.43617523299997174,
+    "mem_mib": 76.90656566619873,
+    "n_cenarios": 5000
+  }
+}

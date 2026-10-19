@@ -1,0 +1,49 @@
+{
+  "grupo": "G01",
+  "seed_usada": 1021,
+  "n_skus": 30,
+  "cenario": {
+    "meta_mult": 1.0,
+    "orcamento_mult": 1.0,
+    "custo_logistico_mult": 1.0,
+    "remover_sku": []
+  },
+  "config_ga_escolhida": "A",
+  "caixa_politica_preco_atual": 407615.68266100006,
+  "caixa_apos_ga": 511185.4192540001,
+  "caixa_final_liquido_pos_greedy": 527385.9105188056,
+  "receita_final": 2228654.810658929,
+  "margem_final_percentual": 0.23663867010561296,
+  "estoque_remanescente_unidades": 1037.4902024845283,
+  "meta_caixa_90d": 328937.52,
+  "meta_atingida": true,
+  "folga_ou_insuficiencia": 198448.3905188056,
+  "divida_total_90d": 309715.06,
+  "cobertura_da_divida": 1.7028100297053868,
+  "divida_coberta": true,
+  "orcamento_promocional": 71806.75,
+  "orcamento_utilizado": 25000.0,
+  "uso_do_orcamento_pct": 34.81566844342628,
+  "ganho_bruto_incentivos": 41200.49126480545,
+  "retorno_por_real_investido": 1.648019650592218,
+  "skus_retirados_do_canal": 3,
+  "concessao_de_desconto": 11980.579999999996,
+  "teto_de_desconto": 61727.625,
+  "validacao_ga_vs_bf": {
+    "n_skus_subconjunto": 8,
+    "skus": [
+      "Q1-004",
+      "Q1-011",
+      "Q1-012",
+      "Q1-019",
+      "Q1-020",
+      "Q1-021",
+      "Q1-023",
+      "Q1-028"
+    ],
+    "fitness_bf": 187191.9904191112,
+    "gap_pct_medio": -1.5547583201381662e-14,
+    "gap_pct_maximo": -1.5547583201381665e-14,
+    "execucoes_ga": 10
+  }
+}

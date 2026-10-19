@@ -1,0 +1,3 @@
+config,populacao,geracoes_max,taxa_mutacao,elite,torneio,taxa_cruzamento,paciencia,geracoes_executadas,geracao_do_melhor,fitness_final,tempo_s,mem_pico_mib
+A,60,150,0.03,2,3,0.9,40,66,26,472136.411392889,0.009561296000015318,0.12246131896972656
+B,160,300,0.015,4,5,0.85,60,75,15,472136.411392889,0.016400638999982675,0.3208580017089844

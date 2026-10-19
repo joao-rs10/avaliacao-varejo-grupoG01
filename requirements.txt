@@ -1,0 +1,5 @@
+# Python 3.13.x (testado com 3.13.16)
+numpy>=2.0
+pandas>=2.2
+matplotlib>=3.8
+pytest>=8.0

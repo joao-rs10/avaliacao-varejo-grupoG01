@@ -1,6 +1,6 @@
 # Checkpoint 6 — Recuperação financeira de varejistas por precificação online
 
-**Grupo: G01** — integrantes: `<NOME 1 — RA>`, `<NOME 2 — RA>`, `<NOME 3 — RA>`   ← **preencher**
+**Grupo: G01** — integrantes: `Joâo Vitor Reis Silva      rm:563115` 
 **Seed base: 21**
 **Seed final: 1021**  (= 1000 × 1 + 21)
 **ID da instância: 4f84efec9073**
@@ -18,9 +18,9 @@ Python 3.13.16 · dependências em `requirements.txt` (numpy, pandas, matplotlib
 ## Como reproduzir
 ```bash
 pip install -r requirements.txt
-python -m pytest -q                                   # 34 testes
-python questao_01/main.py --seed 1021 --modo completo # ≈ 90 s (inclui o benchmark "antes" da otimização)
-python questao_02/main.py --seed 1021 --cenarios 5000 # ≈ 20 s
+python -m pytest -q                                   
+python questao_01/main.py --seed 1021 --modo completo 
+python questao_02/main.py --seed 1021 --cenarios 5000 
 ```
 Todo o aleatório usa seed explícita; o mesmo comando gera os mesmos números.
 
